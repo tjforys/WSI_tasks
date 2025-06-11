@@ -1,0 +1,2 @@
+1. Rozwiązanie problemu plecakowego przez przegląd wyczerpujący i heurystyke.
+2. Metoda najszybszego wzrostu, minimalizacja, na funkcjach CEC
