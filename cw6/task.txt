@@ -1,0 +1,1 @@
+Implementacja algorytmu Q-Learning fla problemu FrozenLake 8x8.
