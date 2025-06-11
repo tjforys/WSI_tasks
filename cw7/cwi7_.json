@@ -1,0 +1,56 @@
+{
+    "record_amount": 10000,
+    "structure": {
+        "Chair": [],
+        "Sport": [],
+        "Back": [
+            "Chair",
+            "Sport"
+        ],
+        "Ache": [
+            "Back"
+        ]
+    },
+    "data": {
+        "Chair": {
+            "()": [
+                0.8,
+                0.2
+            ]
+        },
+        "Sport": {
+            "()": [
+                0.02,
+                0.98
+            ]
+        },
+        "Back": {
+            "(True, True)": [
+                0.9,
+                0.1
+            ],
+            "(True, False)": [
+                0.2,
+                0.8
+            ],
+            "(False, True)": [
+                0.9,
+                0.1
+            ],
+            "(False, False)": [
+                0.01,
+                0.99
+            ]
+        },
+        "Ache": {
+            "(True,)": [
+                0.7,
+                0.3
+            ],
+            "(False,)": [
+                0.1,
+                0.9
+            ]
+        }
+    }
+}

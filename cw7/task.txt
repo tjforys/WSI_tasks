@@ -1,0 +1,1 @@
+Implementacja Losowego generatora danych działającego zgodnie z podaną siecia bayesa. dane wykorzystać do trenowania wczesniej stworzonego klasyfikatora.
