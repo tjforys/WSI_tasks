@@ -1,0 +1,1 @@
+Zaimplementować algorytm ewolucyjny z selekcja turniejową i sukcesja generacyjna, bez krzyzowania. Optymalizacja funkcji CEC2017 2 i 13 w 10 wymiarach.
