@@ -1,0 +1,1 @@
+Implementacja klasyfikatora ID3, testowane na zbiorach https://archive.ics.uci.edu/dataset/14/breast+cancer i https://archive.ics.uci.edu/dataset/73/mushroom.
